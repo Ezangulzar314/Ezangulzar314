@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ezan Gulzar</h1>
 <h3 align="center">B.Tech CSE Student | C++ Developer | DSA Learner</h3>
-# Hi, I'm Ezan Gulzar 👋
+
 
 🎓 B.Tech CSE Student  
 💻 Learning C++, DSA and Web Development  
